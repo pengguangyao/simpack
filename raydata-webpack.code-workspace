@@ -1,0 +1,15 @@
+{
+    "folders": [
+        {
+            "name": "raydata-webpack",
+            "path": "."
+        },
+        {
+            "name": "raydata-demo",
+            "path": "..\\raydata-demo"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "raydata-demo"
+    }
+}
