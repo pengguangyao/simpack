@@ -15,6 +15,7 @@
         "@babel/types": "^7.18.8",
         "babylon": "^6.18.0",
         "ejs": "^3.1.8",
+        "mkdirp": "^1.0.4",
         "neo-async": "^2.6.2",
         "tapable": "^1"
     }
